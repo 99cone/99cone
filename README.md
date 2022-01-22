@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=yae-seul%20Kim&fontSize=90&fontAlign=60&fontColor=FFD700&desc=Front-end%20developer%2099cone&descAlign=75&descAlignY=65&animation=fadeIn)
 
 
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ### Hi there 👋
 
