@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=yae-seul%20Kim&fontSize=90&fontAlign=60&fontColor=FFD700&desc=Front-end%20developer%2099cone&descAlign=75&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=yae-seul%20Kim&fontSize=90&fontAlign=60&fontColor=FFD700&desc=Front-end%20developer%2099cone&descAlign=78&descAlignY=68)
 
 
 
