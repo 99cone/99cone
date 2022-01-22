@@ -5,6 +5,10 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
+
+
+<h1>💖About Me💖</h1>
+
 <a href="https://instagram.com/alpox.dev">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
