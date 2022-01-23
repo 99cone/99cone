@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=yae-seul%20Kim&fontSize=90&fontAlign=60&fontColor=FFD700&desc=Front-end%20developer%2099cone&descAlign=75&descAlignY=65&animation=fadeIn)
 
+<br>
+
 <div align="center">
 <h1>💻Front-end Stack💻</h1>
 
@@ -9,11 +11,13 @@
 [![JS](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-components&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=black)](github.com/99cone/)
+    <br>
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=Next.js&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)](github.com/99cone/)
+    <br>
 [![JS](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black)](github.com/99cone/)
