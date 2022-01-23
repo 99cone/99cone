@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=yae-seul%20Kim&fontSize=90&fontAlign=60&fontColor=FFD700&desc=Front-end%20developer%2099cone&descAlign=75&descAlignY=65&animation=fadeIn)
 
 <div align="center">
-<h1>💻Teck Stack💻</h1>
+<h1>💻Front-end Stack💻</h1>
 
 [![JS](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/CSS3-F24E1E?style=flat-square&logo=CSS3&logoColor=black)](github.com/99cone/)
@@ -19,9 +19,9 @@
 [![JS](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black)](github.com/99cone/)
 
 
- </center>
 
-<h1>💖About Me💖</h1>
+
+<h1>💖Contact Me💖</h1>
 
 <a href="https://instagram.com/alpox.dev">
     <img 
@@ -34,7 +34,17 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+
+<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
+
+<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99cone&count_bg=%23FFD700&title_bg=%23A8A7A3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 </div>
 
