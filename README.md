@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=yae-seul%20Kim&fontSize=90&fontAlign=60&fontColor=FFD700&desc=Front-end%20developer%2099cone&descAlign=75&descAlignY=65&animation=fadeIn)
 
-
+<center>
 <h1>💻Teck Stack💻</h1>
 
-<
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/99cone/)
@@ -16,7 +15,7 @@
 [![JS](https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=Next.js&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)](github.com/99cone/)
 
-
+ </center>
 
 <h1>💖About Me💖</h1>
 
