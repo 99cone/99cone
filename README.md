@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=yae-seul%20Kim&fontSize=90&fontAlign=60&fontColor=FFD700&desc=Front-end%20developer%2099cone&descAlign=75&descAlignY=65&animation=fadeIn)
 
 <center>
-<h1>💻Teck Stack💻</h1>
+# 헤더1💻Teck Stack💻
 
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/99cone/)
