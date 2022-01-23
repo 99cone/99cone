@@ -25,7 +25,7 @@
 
 
 
-<h1>💖Contact Me💖</h1>
+<h1>💖About Me💖</h1>
 
 <a href="https://instagram.com/alpox.dev">
     <img 
@@ -41,9 +41,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"
      style="height : auto; margin-left : 10px; margin-right : 10px;" />
 
-<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
-
-<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
 
 
 
