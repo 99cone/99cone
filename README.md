@@ -3,8 +3,10 @@
 
 <h1>💻Teck Stack💻</h1>
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&text-align=center)](github.com/99cone/)
-[![JS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black&text-align=center)](github.com/99cone/)
+<
+
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/99cone/)
+[![JS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-components&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)](github.com/99cone/)
