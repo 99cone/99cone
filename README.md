@@ -10,8 +10,8 @@
 [![JS](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/CSS3-F24E1E?style=flat-square&logo=CSS3&logoColor=black)](github.com/99cone/)
-[![JS](https://img.shields.io/badge/Node.js-fff?style=flat-square&logo=Node.js&logoColor=black)](github.com/99cone/)
-[![JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=black)](github.com/99cone/)
+[![JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](github.com/99cone/)
+[![JS](https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=Next.js&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)](github.com/99cone/)
 
 
