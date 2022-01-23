@@ -4,6 +4,7 @@
 <h1>💻Teck Stack💻</h1>
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/99cone/)
+[![JS](https://img.shields.io/badge/React-F7DF1E?style=flat-square&logo=React&logoColor=61DAFB)](github.com/99cone/)
 
 
 
