@@ -14,7 +14,7 @@
 [![JS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=Next.js&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)](github.com/99cone/)
-[![JS](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=black)](github.com/99cone/)
+[![JS](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black)](github.com/99cone/)
 
