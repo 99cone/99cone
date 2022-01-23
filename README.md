@@ -20,7 +20,7 @@
     <br>
 [![JS](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)](github.com/99cone/)
 [![JS](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=black)](github.com/99cone/)
-[![JS](https://img.shields.io/badge/Prettier-512BD4?style=flat-square&logo=Prettier&logoColor=black)](github.com/99cone/)
+[![JS](https://img.shields.io/badge/Prettier-F9DC3E?style=flat-square&logo=Prettier&logoColor=black)](github.com/99cone/)
 
 
 
